@@ -11,3 +11,4 @@ Uso o método de **Prática Deliberada**:
 ## Rotina
 Estudo o máximo de tempo que conseguir, usando diversas ferramentes que apoiem e me ajudem nos meus estudos.
 
+Testando branch
