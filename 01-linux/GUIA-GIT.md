@@ -12,7 +12,7 @@
    * *O que faz:* Prepara todos os arquivos modificados para o próximo commit.
    * *Quando usar:* Quando terminou uma etapa do trabalho.
 
-   4. **git commit -m "mensagem"**
+4. **git commit -m "mensagem"**
    * *O que faz:* Salva a versão atual no histórico.
    * *Quando usar:* Para fechar um pacote de alterações.
 
